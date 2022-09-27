@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+
