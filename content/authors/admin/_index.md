@@ -18,7 +18,7 @@ interests:
 - Soil physics/hydrology
 - Numerical modeling
 organizations:
-- name: The University of Arizona
+- name: University of Arizona
   url: https://www.arizona.edu/ 
 role: Research Associate
 social:
@@ -28,7 +28,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JicaiZeng
-- icon: graduation-cap
+- icon: google-scholar
   icon_pack: fas
   link: https://scholar.google.com/citations?user=8PiTiScAAAAJ&hl=en&oi=ao
 - icon: github
