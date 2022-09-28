@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Subsurface Hydrology
     institution: Wuhan University
-    year: Dec. 2018
+    year: 2018
   - course: MEng in Agricultural Hydrogeology
     institution: Wuhan University
     year: 2014
