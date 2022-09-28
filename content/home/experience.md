@@ -25,7 +25,7 @@ experience:
   - title: Research Associate
     company: University of Arizona
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-arizona
     location: Tucson,AZ
     date_start: '2019-01-01'
     date_end: ''
