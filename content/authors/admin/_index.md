@@ -47,8 +47,8 @@ superuser: true
 title: Jicai Zeng, PhD
 ---
 
-Jicai Zeng is a research associate at the University of Arizona. His research interests include flow and transport in porous media, numerical modeling, soil physics, and subsurface hydrology.
+Jicai Zeng is a research associate at the University of Arizona. His research interests include flow & transport in porous media, multi-phase flow, soil physics, subsurface hydrology, and numerical modeling.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
