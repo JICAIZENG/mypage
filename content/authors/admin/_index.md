@@ -28,7 +28,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JicaiZeng
-- icon: google-scholar
+- icon: ror
   icon_pack: fas
   link: https://scholar.google.com/citations?user=8PiTiScAAAAJ&hl=en&oi=ao
 - icon: github
