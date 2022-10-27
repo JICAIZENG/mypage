@@ -26,9 +26,9 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2022-03-01'
-    description: 'Annual top-cited paper (2020-2021)'
+    description: Top-cited paper (2020-2021)
     organization: American Geophysical Union (Water Resources Research)
-    organization_url: ''
+    organization_url: https://www.agu.org/
     title: Top-cited paper (2020-2021)
     url: ''
   - certificate_url: ''
@@ -42,7 +42,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2017-09-15'
-    description: ''
+    description: Young Researchers Award
     organization: European Community on Computational Methods in Applied Sciences (ECCOMAS)
     organization_url: https://www.eccomas.org/
     title: Young Researchers Award
